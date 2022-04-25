@@ -1,3 +1,4 @@
 [submodule "cardano-wallet-connector"]
 	path = cardano-wallet-connector
 	url = https://github.com/dynamicstrategies/cardano-wallet-connector
+	branch = master
