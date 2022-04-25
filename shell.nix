@@ -16,6 +16,7 @@ in
       pkgs.niv
       cardano-repo-tool
       pkgs.ghcid
+      pkgs.nodejs
       # HACK: This shouldn't need to be here.
       pkgs.lzma.dev
     ] ++ (pkgs.lib.optionals pure [
